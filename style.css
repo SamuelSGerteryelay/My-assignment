@@ -1,0 +1,72 @@
+
+
+
+
+    
+    
+
+.Bg{
+    background-color: #1e1242;
+    height: 30px;
+    width: 100%;
+    display: flex;
+}
+.l1{
+    color: white;
+}
+
+.nav1{
+     padding-left: 800px;
+}
+   .Home,
+   .About,
+   .Flower,
+   .Contact{
+    text-decoration: none;
+    color: white;
+    max-width: 10px;
+    padding-left: 30px;
+
+   } 
+   .d1{
+    color: aqua;
+   }
+   .a1{
+    ma
+    color: white;
+
+    
+   }
+   .f1{
+    padding-top: 10px;
+    color:#01beaf;
+   }
+.bigdiv{
+    display: flex;
+    margin-top: 80px;
+}
+.bodydiv{
+    background-color: #1e1242;
+    color: white;
+
+
+
+
+    
+
+    
+}
+.img2{
+    border-radius: 60%;
+    border-style:double;
+    border: 20px solid #555;
+    background-color: #01beaf;
+}
+.secdiv{
+    display: flex;
+    gap: 2rf5;
+    margin-left: 400px;
+}
+.b{
+    background-color:#01beaf;
+}
